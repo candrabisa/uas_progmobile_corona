@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dunia"
+        android:icon="@drawable/globe"
+        android:title="Dunia" />
+
+    <item
+        android:id="@+id/navigation_indonesia"
+        android:icon="@drawable/indonesia"
+        android:title="Indonesia"/>
+</menu>
